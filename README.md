@@ -7,7 +7,7 @@
 ## 📘 Overview
 
 **VerilogBenchmark-Dataset** provides two curated benchmark datasets for evaluating open-source **Verilog static analysis tools**, including **Verilator**, **Verible**, **svlint**, **Icarus Verilog**, and **Yosys**.  
-These datasets are constructed to measure the precision, recall, F1-score and other related metrics of tools based on both *standardized rule violations* and *real-world open-source defects*.
+These datasets are constructed to measure the precision, recall, F1-score and other related metrics of tools based on both *standardized rule violations* and *open-source defects*.
 
 This repository supports the study:  
 > *“Benchmarking Open-Source Static Analysis Tools for Verilog”*  
